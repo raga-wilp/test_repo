@@ -2,3 +2,4 @@
 
 This is my development text
 This is my feature text
+Here is my conflict
